@@ -1,2 +1,2 @@
 # New Project 
-This project make only for prctice than can be 
+This project make only for prctice that how can rep upload on github account. 
